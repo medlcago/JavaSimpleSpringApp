@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://services.tms-studio.ru:8095/service_db
+    username: service_admin
+    password: srv0983_
+    driver-class-name: org.postgresql.Driver
+
+server:
+  port: 8085
